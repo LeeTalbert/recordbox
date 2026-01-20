@@ -19,7 +19,6 @@ BuildRequires:	gio2.0-64
 BuildRequires:	pkgconfig(gtk4)
 BuildRequires:	pkgconfig(libadwaita-1)
 BuildRequires:	pkgconfig(gstreamer-1.0)
-BuildRequires:	gstreamer1.0-decoders-audio
 
 %description
 %{summary}.
